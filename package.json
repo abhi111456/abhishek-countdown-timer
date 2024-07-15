@@ -1,6 +1,6 @@
 {
   "name": "abhishek-countdown-timer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A countdown timer project using React and Webpack",
   "main": "src/main.jsx",
   "bin": {
@@ -16,7 +16,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-
   "devDependencies": {
     "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.21.0",
